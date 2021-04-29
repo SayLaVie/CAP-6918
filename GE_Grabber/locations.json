@@ -1,0 +1,82 @@
+{
+    "Brooklyn Bridge": {
+        "lat": 40.7058094,
+        "lon": -73.99597355,
+        "alt": {
+            "start": 0,
+            "stop": 50,
+            "step": 10
+        },
+        "tilt": {
+            "start": 0,
+            "stop": 100,
+            "step": 10
+        },
+        "heading": {
+            "start": 0,
+            "stop": 360,
+            "step": 15
+        },
+        "distance": 750
+    },
+    "Sydney Harbour Bridge": {
+        "lat": -33.85245396,
+        "lon": 151.21067145,
+        "alt": {
+            "start": 0,
+            "stop": 140,
+            "step": 10
+        },
+        "tilt": {
+            "start": 0,
+            "stop": 105,
+            "step": 15
+        },
+        "heading": {
+            "start": 0,
+            "stop": 360,
+            "step": 15
+        },
+        "distance": 500
+    },
+    "Goldengate Bridge": {
+        "lat": 37.81991479,
+        "lon": -122.4786796,
+        "alt": {
+            "start": 10,
+            "stop": 80,
+            "step": 10
+        },
+        "tilt": {
+            "start": 0,
+            "stop": 100,
+            "step": 10
+        },
+        "heading": {
+            "start": 0,
+            "stop": 360,
+            "step": 15
+        },
+        "distance": 1500
+    },
+    "Tower Bridge": {
+        "lat": 51.5054564,
+        "lon": -0.0753565,
+        "alt": {
+            "start": 10,
+            "stop": 80,
+            "step": 10
+        },
+        "tilt": {
+            "start": 0,
+            "stop": 105,
+            "step": 15
+        },
+        "heading": {
+            "start": 0,
+            "stop": 360,
+            "step": 15
+        },
+        "distance": 200
+    }
+}
